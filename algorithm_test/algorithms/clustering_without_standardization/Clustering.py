@@ -1,3 +1,5 @@
+#This class doesn't standardize a dataset, it must be standardized before being clustered. 
+
 import math 
 import numpy as np
 

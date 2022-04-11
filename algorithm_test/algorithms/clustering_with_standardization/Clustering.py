@@ -1,3 +1,5 @@
+#This class standardize a dataset before clusterizing it.
+
 import numpy as np
 import math 
 from sklearn.preprocessing import StandardScaler
